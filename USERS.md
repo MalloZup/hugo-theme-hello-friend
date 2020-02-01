@@ -24,3 +24,4 @@ TEMPLATE:
 - https://jonathan.rico.live/ - **Jonathan Rico** (Electronics Engineer)
 - https://mritd.com/ - **漠然** (Software Engineer and DevOps)
 - https://ilya-lesikov.com - **Ilya Lesikov** (DevOps, SRE)
+- https://dariomaiocchiart.github.io/ **Dario Maiocchi** (Painter, artist website)
